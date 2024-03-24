@@ -1,0 +1,9 @@
+>Feature gnl|YourCenter|KJ010186.1_1
+107	10240	gene
+			locus_tag	KJ010186.1_00001
+107	10240	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14340
+			locus_tag	KJ010186.1_00001
+			product	Genome polyprotein
+			protein_id	gnl|YourCenter|KJ010186.1_00001

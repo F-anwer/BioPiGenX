@@ -1,0 +1,997 @@
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_196.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_142.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_151.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_123.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_121.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_148.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_14.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_69.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_87.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_7.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_79.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_41.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_54.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_90.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_178.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_169.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_110.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_136.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_197.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_145.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_106.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_85.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_21.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_4.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_144.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_63.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_25.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_120.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_31.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_91.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_28.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_183.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_125.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_118.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_127.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_35.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_83.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_19.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_102.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_12.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_146.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_0.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_171.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_150.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_94.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_98.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_137.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_60.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_164.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_72.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_93.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_36.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_188.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_11.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_124.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_88.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_26.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_132.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_173.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_57.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_190.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_52.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_49.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_29.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_96.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_109.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_179.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_44.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_135.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_162.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_168.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_193.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_67.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_13.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_134.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_20.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_62.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_43.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_117.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_163.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_56.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_152.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_105.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_187.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_157.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_107.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_112.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_114.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_99.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_71.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_101.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_199.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_89.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_191.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_86.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_75.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_38.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_104.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_23.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_133.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_167.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_51.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_95.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_180.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_47.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_176.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_78.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_111.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_177.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_194.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_64.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_195.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_140.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_84.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_139.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_116.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_73.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_42.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_186.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_174.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_161.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_66.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_165.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_182.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_172.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_155.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_34.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_128.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_59.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_143.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_53.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_37.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_39.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_17.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_10.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_16.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_97.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_122.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_18.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_45.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_48.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_149.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_58.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_185.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_198.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_68.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_113.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_74.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_5.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_6.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_170.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_22.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_15.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_158.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_138.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_77.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_154.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_159.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_8.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_166.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_184.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_131.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_115.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_1.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_2.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_92.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_24.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_181.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_61.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_156.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_160.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_30.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_175.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_40.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_119.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_33.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_100.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_126.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_32.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_9.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_55.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_141.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_130.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_70.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_80.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_81.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_129.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_108.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_27.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_50.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_46.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_82.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_189.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_65.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_3.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_192.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_147.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_76.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_153.pdb
+[lgd_cluster_bsas] INFO: Reading CA from /home/farah/Pipeline/swarm_0/lightdock_103.pdb
+[lgd_cluster_bsas] INFO: Glowworm 142 with pdb lightdock_142.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 142 is 3.642
+[lgd_cluster_bsas] INFO: Glowworm 142 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 151 with pdb lightdock_151.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 151 is 0.345
+[lgd_cluster_bsas] INFO: Glowworm 151 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 123 with pdb lightdock_123.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 123 is 0.347
+[lgd_cluster_bsas] INFO: Glowworm 123 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 121 with pdb lightdock_121.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 121 is 0.297
+[lgd_cluster_bsas] INFO: Glowworm 121 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 148 with pdb lightdock_148.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 148 is 4.830
+[lgd_cluster_bsas] INFO: New cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 14 with pdb lightdock_14.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 14 is 0.794
+[lgd_cluster_bsas] INFO: Glowworm 14 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 69 with pdb lightdock_69.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 69 is 5.580
+[lgd_cluster_bsas] INFO: RMSD between 148 and 69 is 4.761
+[lgd_cluster_bsas] INFO: New cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 87 with pdb lightdock_87.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 87 is 3.086
+[lgd_cluster_bsas] INFO: Glowworm 87 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 7 with pdb lightdock_7.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 7 is 4.800
+[lgd_cluster_bsas] INFO: RMSD between 148 and 7 is 0.136
+[lgd_cluster_bsas] INFO: Glowworm 7 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 79 with pdb lightdock_79.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 79 is 3.053
+[lgd_cluster_bsas] INFO: Glowworm 79 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 41 with pdb lightdock_41.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 41 is 5.454
+[lgd_cluster_bsas] INFO: RMSD between 148 and 41 is 4.738
+[lgd_cluster_bsas] INFO: RMSD between 69 and 41 is 0.488
+[lgd_cluster_bsas] INFO: Glowworm 41 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 54 with pdb lightdock_54.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 54 is 4.837
+[lgd_cluster_bsas] INFO: RMSD between 148 and 54 is 0.090
+[lgd_cluster_bsas] INFO: Glowworm 54 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 90 with pdb lightdock_90.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 90 is 3.041
+[lgd_cluster_bsas] INFO: Glowworm 90 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 178 with pdb lightdock_178.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 178 is 3.097
+[lgd_cluster_bsas] INFO: Glowworm 178 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 169 with pdb lightdock_169.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 169 is 4.160
+[lgd_cluster_bsas] INFO: RMSD between 148 and 169 is 1.723
+[lgd_cluster_bsas] INFO: Glowworm 169 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 110 with pdb lightdock_110.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 110 is 3.003
+[lgd_cluster_bsas] INFO: Glowworm 110 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 136 with pdb lightdock_136.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 136 is 3.420
+[lgd_cluster_bsas] INFO: Glowworm 136 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 197 with pdb lightdock_197.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 197 is 3.310
+[lgd_cluster_bsas] INFO: Glowworm 197 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 145 with pdb lightdock_145.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 145 is 2.807
+[lgd_cluster_bsas] INFO: Glowworm 145 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 106 with pdb lightdock_106.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 106 is 3.575
+[lgd_cluster_bsas] INFO: Glowworm 106 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 85 with pdb lightdock_85.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 85 is 3.241
+[lgd_cluster_bsas] INFO: Glowworm 85 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 21 with pdb lightdock_21.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 21 is 3.983
+[lgd_cluster_bsas] INFO: Glowworm 21 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 4 with pdb lightdock_4.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 4 is 2.759
+[lgd_cluster_bsas] INFO: Glowworm 4 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 144 with pdb lightdock_144.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 144 is 0.818
+[lgd_cluster_bsas] INFO: Glowworm 144 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 63 with pdb lightdock_63.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 63 is 3.055
+[lgd_cluster_bsas] INFO: Glowworm 63 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 25 with pdb lightdock_25.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 25 is 4.964
+[lgd_cluster_bsas] INFO: RMSD between 148 and 25 is 0.862
+[lgd_cluster_bsas] INFO: Glowworm 25 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 120 with pdb lightdock_120.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 120 is 3.747
+[lgd_cluster_bsas] INFO: Glowworm 120 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 31 with pdb lightdock_31.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 31 is 3.396
+[lgd_cluster_bsas] INFO: Glowworm 31 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 91 with pdb lightdock_91.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 91 is 2.578
+[lgd_cluster_bsas] INFO: Glowworm 91 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 28 with pdb lightdock_28.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 28 is 3.944
+[lgd_cluster_bsas] INFO: Glowworm 28 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 183 with pdb lightdock_183.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 183 is 3.390
+[lgd_cluster_bsas] INFO: Glowworm 183 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 125 with pdb lightdock_125.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 125 is 2.031
+[lgd_cluster_bsas] INFO: Glowworm 125 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 118 with pdb lightdock_118.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 118 is 3.342
+[lgd_cluster_bsas] INFO: Glowworm 118 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 127 with pdb lightdock_127.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 127 is 3.795
+[lgd_cluster_bsas] INFO: Glowworm 127 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 35 with pdb lightdock_35.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 35 is 3.116
+[lgd_cluster_bsas] INFO: Glowworm 35 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 83 with pdb lightdock_83.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 83 is 1.684
+[lgd_cluster_bsas] INFO: Glowworm 83 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 19 with pdb lightdock_19.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 19 is 3.971
+[lgd_cluster_bsas] INFO: Glowworm 19 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 102 with pdb lightdock_102.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 102 is 5.926
+[lgd_cluster_bsas] INFO: RMSD between 148 and 102 is 5.274
+[lgd_cluster_bsas] INFO: RMSD between 69 and 102 is 2.424
+[lgd_cluster_bsas] INFO: Glowworm 102 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 12 with pdb lightdock_12.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 12 is 2.719
+[lgd_cluster_bsas] INFO: Glowworm 12 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 146 with pdb lightdock_146.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 146 is 3.494
+[lgd_cluster_bsas] INFO: Glowworm 146 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 0 with pdb lightdock_0.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 0 is 3.447
+[lgd_cluster_bsas] INFO: Glowworm 0 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 171 with pdb lightdock_171.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 171 is 2.151
+[lgd_cluster_bsas] INFO: Glowworm 171 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 150 with pdb lightdock_150.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 150 is 5.580
+[lgd_cluster_bsas] INFO: RMSD between 148 and 150 is 6.334
+[lgd_cluster_bsas] INFO: RMSD between 69 and 150 is 3.344
+[lgd_cluster_bsas] INFO: Glowworm 150 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 94 with pdb lightdock_94.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 94 is 4.058
+[lgd_cluster_bsas] INFO: RMSD between 148 and 94 is 4.760
+[lgd_cluster_bsas] INFO: RMSD between 69 and 94 is 4.888
+[lgd_cluster_bsas] INFO: New cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 98 with pdb lightdock_98.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 98 is 5.496
+[lgd_cluster_bsas] INFO: RMSD between 148 and 98 is 6.311
+[lgd_cluster_bsas] INFO: RMSD between 69 and 98 is 3.291
+[lgd_cluster_bsas] INFO: Glowworm 98 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 137 with pdb lightdock_137.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 137 is 3.992
+[lgd_cluster_bsas] INFO: Glowworm 137 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 60 with pdb lightdock_60.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 60 is 1.057
+[lgd_cluster_bsas] INFO: Glowworm 60 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 164 with pdb lightdock_164.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 164 is 4.407
+[lgd_cluster_bsas] INFO: RMSD between 148 and 164 is 3.974
+[lgd_cluster_bsas] INFO: Glowworm 164 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 72 with pdb lightdock_72.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 72 is 3.541
+[lgd_cluster_bsas] INFO: Glowworm 72 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 93 with pdb lightdock_93.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 93 is 2.697
+[lgd_cluster_bsas] INFO: Glowworm 93 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 36 with pdb lightdock_36.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 36 is 4.687
+[lgd_cluster_bsas] INFO: RMSD between 148 and 36 is 2.326
+[lgd_cluster_bsas] INFO: Glowworm 36 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 188 with pdb lightdock_188.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 188 is 3.632
+[lgd_cluster_bsas] INFO: Glowworm 188 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 11 with pdb lightdock_11.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 11 is 4.755
+[lgd_cluster_bsas] INFO: RMSD between 148 and 11 is 5.476
+[lgd_cluster_bsas] INFO: RMSD between 69 and 11 is 4.740
+[lgd_cluster_bsas] INFO: RMSD between 94 and 11 is 3.618
+[lgd_cluster_bsas] INFO: Glowworm 11 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 124 with pdb lightdock_124.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 124 is 5.385
+[lgd_cluster_bsas] INFO: RMSD between 148 and 124 is 6.254
+[lgd_cluster_bsas] INFO: RMSD between 69 and 124 is 3.129
+[lgd_cluster_bsas] INFO: Glowworm 124 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 88 with pdb lightdock_88.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 88 is 4.422
+[lgd_cluster_bsas] INFO: RMSD between 148 and 88 is 4.950
+[lgd_cluster_bsas] INFO: RMSD between 69 and 88 is 3.701
+[lgd_cluster_bsas] INFO: Glowworm 88 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 26 with pdb lightdock_26.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 26 is 4.930
+[lgd_cluster_bsas] INFO: RMSD between 148 and 26 is 1.434
+[lgd_cluster_bsas] INFO: Glowworm 26 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 132 with pdb lightdock_132.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 132 is 2.709
+[lgd_cluster_bsas] INFO: Glowworm 132 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 173 with pdb lightdock_173.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 173 is 3.523
+[lgd_cluster_bsas] INFO: Glowworm 173 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 57 with pdb lightdock_57.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 57 is 5.357
+[lgd_cluster_bsas] INFO: RMSD between 148 and 57 is 4.915
+[lgd_cluster_bsas] INFO: RMSD between 69 and 57 is 0.953
+[lgd_cluster_bsas] INFO: Glowworm 57 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 190 with pdb lightdock_190.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 190 is 3.801
+[lgd_cluster_bsas] INFO: Glowworm 190 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 52 with pdb lightdock_52.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 52 is 2.292
+[lgd_cluster_bsas] INFO: Glowworm 52 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 49 with pdb lightdock_49.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 49 is 5.434
+[lgd_cluster_bsas] INFO: RMSD between 148 and 49 is 6.258
+[lgd_cluster_bsas] INFO: RMSD between 69 and 49 is 3.129
+[lgd_cluster_bsas] INFO: Glowworm 49 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 29 with pdb lightdock_29.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 29 is 3.935
+[lgd_cluster_bsas] INFO: Glowworm 29 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 96 with pdb lightdock_96.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 96 is 3.773
+[lgd_cluster_bsas] INFO: Glowworm 96 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 109 with pdb lightdock_109.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 109 is 4.532
+[lgd_cluster_bsas] INFO: RMSD between 148 and 109 is 2.090
+[lgd_cluster_bsas] INFO: Glowworm 109 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 179 with pdb lightdock_179.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 179 is 4.017
+[lgd_cluster_bsas] INFO: RMSD between 148 and 179 is 3.394
+[lgd_cluster_bsas] INFO: Glowworm 179 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 44 with pdb lightdock_44.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 44 is 4.648
+[lgd_cluster_bsas] INFO: RMSD between 148 and 44 is 1.994
+[lgd_cluster_bsas] INFO: Glowworm 44 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 135 with pdb lightdock_135.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 135 is 2.335
+[lgd_cluster_bsas] INFO: Glowworm 135 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 162 with pdb lightdock_162.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 162 is 2.779
+[lgd_cluster_bsas] INFO: Glowworm 162 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 168 with pdb lightdock_168.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 168 is 3.383
+[lgd_cluster_bsas] INFO: Glowworm 168 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 193 with pdb lightdock_193.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 193 is 2.606
+[lgd_cluster_bsas] INFO: Glowworm 193 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 67 with pdb lightdock_67.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 67 is 5.152
+[lgd_cluster_bsas] INFO: RMSD between 148 and 67 is 5.243
+[lgd_cluster_bsas] INFO: RMSD between 69 and 67 is 2.985
+[lgd_cluster_bsas] INFO: Glowworm 67 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 13 with pdb lightdock_13.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 13 is 3.659
+[lgd_cluster_bsas] INFO: Glowworm 13 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 134 with pdb lightdock_134.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 134 is 3.964
+[lgd_cluster_bsas] INFO: Glowworm 134 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 20 with pdb lightdock_20.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 20 is 4.029
+[lgd_cluster_bsas] INFO: RMSD between 148 and 20 is 3.391
+[lgd_cluster_bsas] INFO: Glowworm 20 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 62 with pdb lightdock_62.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 62 is 5.341
+[lgd_cluster_bsas] INFO: RMSD between 148 and 62 is 6.272
+[lgd_cluster_bsas] INFO: RMSD between 69 and 62 is 3.287
+[lgd_cluster_bsas] INFO: Glowworm 62 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 43 with pdb lightdock_43.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 43 is 5.348
+[lgd_cluster_bsas] INFO: RMSD between 148 and 43 is 6.106
+[lgd_cluster_bsas] INFO: RMSD between 69 and 43 is 3.052
+[lgd_cluster_bsas] INFO: Glowworm 43 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 117 with pdb lightdock_117.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 117 is 5.373
+[lgd_cluster_bsas] INFO: RMSD between 148 and 117 is 3.943
+[lgd_cluster_bsas] INFO: Glowworm 117 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 163 with pdb lightdock_163.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 163 is 3.984
+[lgd_cluster_bsas] INFO: Glowworm 163 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 56 with pdb lightdock_56.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 56 is 3.865
+[lgd_cluster_bsas] INFO: Glowworm 56 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 152 with pdb lightdock_152.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 152 is 5.012
+[lgd_cluster_bsas] INFO: RMSD between 148 and 152 is 4.220
+[lgd_cluster_bsas] INFO: RMSD between 69 and 152 is 4.013
+[lgd_cluster_bsas] INFO: RMSD between 94 and 152 is 4.670
+[lgd_cluster_bsas] INFO: New cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 105 with pdb lightdock_105.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 105 is 3.482
+[lgd_cluster_bsas] INFO: Glowworm 105 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 187 with pdb lightdock_187.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 187 is 4.407
+[lgd_cluster_bsas] INFO: RMSD between 148 and 187 is 5.745
+[lgd_cluster_bsas] INFO: RMSD between 69 and 187 is 5.119
+[lgd_cluster_bsas] INFO: RMSD between 94 and 187 is 2.515
+[lgd_cluster_bsas] INFO: Glowworm 187 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 157 with pdb lightdock_157.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 157 is 3.963
+[lgd_cluster_bsas] INFO: Glowworm 157 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 107 with pdb lightdock_107.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 107 is 5.885
+[lgd_cluster_bsas] INFO: RMSD between 148 and 107 is 4.292
+[lgd_cluster_bsas] INFO: RMSD between 69 and 107 is 2.750
+[lgd_cluster_bsas] INFO: Glowworm 107 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 112 with pdb lightdock_112.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 112 is 3.234
+[lgd_cluster_bsas] INFO: Glowworm 112 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 114 with pdb lightdock_114.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 114 is 4.212
+[lgd_cluster_bsas] INFO: RMSD between 148 and 114 is 3.743
+[lgd_cluster_bsas] INFO: Glowworm 114 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 99 with pdb lightdock_99.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 99 is 3.787
+[lgd_cluster_bsas] INFO: Glowworm 99 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 71 with pdb lightdock_71.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 71 is 3.378
+[lgd_cluster_bsas] INFO: Glowworm 71 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 101 with pdb lightdock_101.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 101 is 3.978
+[lgd_cluster_bsas] INFO: Glowworm 101 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 199 with pdb lightdock_199.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 199 is 4.947
+[lgd_cluster_bsas] INFO: RMSD between 148 and 199 is 4.484
+[lgd_cluster_bsas] INFO: RMSD between 69 and 199 is 2.455
+[lgd_cluster_bsas] INFO: Glowworm 199 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 89 with pdb lightdock_89.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 89 is 5.095
+[lgd_cluster_bsas] INFO: RMSD between 148 and 89 is 6.203
+[lgd_cluster_bsas] INFO: RMSD between 69 and 89 is 4.887
+[lgd_cluster_bsas] INFO: RMSD between 94 and 89 is 4.363
+[lgd_cluster_bsas] INFO: RMSD between 152 and 89 is 3.217
+[lgd_cluster_bsas] INFO: Glowworm 89 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 191 with pdb lightdock_191.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 191 is 3.749
+[lgd_cluster_bsas] INFO: Glowworm 191 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 86 with pdb lightdock_86.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 86 is 3.425
+[lgd_cluster_bsas] INFO: Glowworm 86 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 75 with pdb lightdock_75.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 75 is 5.789
+[lgd_cluster_bsas] INFO: RMSD between 148 and 75 is 4.329
+[lgd_cluster_bsas] INFO: RMSD between 69 and 75 is 2.608
+[lgd_cluster_bsas] INFO: Glowworm 75 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 38 with pdb lightdock_38.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 38 is 5.119
+[lgd_cluster_bsas] INFO: RMSD between 148 and 38 is 6.190
+[lgd_cluster_bsas] INFO: RMSD between 69 and 38 is 4.806
+[lgd_cluster_bsas] INFO: RMSD between 94 and 38 is 4.328
+[lgd_cluster_bsas] INFO: RMSD between 152 and 38 is 3.215
+[lgd_cluster_bsas] INFO: Glowworm 38 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 104 with pdb lightdock_104.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 104 is 4.003
+[lgd_cluster_bsas] INFO: RMSD between 148 and 104 is 3.287
+[lgd_cluster_bsas] INFO: Glowworm 104 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 23 with pdb lightdock_23.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 23 is 4.676
+[lgd_cluster_bsas] INFO: RMSD between 148 and 23 is 4.590
+[lgd_cluster_bsas] INFO: RMSD between 69 and 23 is 4.817
+[lgd_cluster_bsas] INFO: RMSD between 94 and 23 is 3.461
+[lgd_cluster_bsas] INFO: Glowworm 23 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 133 with pdb lightdock_133.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 133 is 3.698
+[lgd_cluster_bsas] INFO: Glowworm 133 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 167 with pdb lightdock_167.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 167 is 3.267
+[lgd_cluster_bsas] INFO: Glowworm 167 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 51 with pdb lightdock_51.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 51 is 3.952
+[lgd_cluster_bsas] INFO: Glowworm 51 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 95 with pdb lightdock_95.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 95 is 2.705
+[lgd_cluster_bsas] INFO: Glowworm 95 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 180 with pdb lightdock_180.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 180 is 4.022
+[lgd_cluster_bsas] INFO: RMSD between 148 and 180 is 4.772
+[lgd_cluster_bsas] INFO: RMSD between 69 and 180 is 5.066
+[lgd_cluster_bsas] INFO: RMSD between 94 and 180 is 4.035
+[lgd_cluster_bsas] INFO: RMSD between 152 and 180 is 4.180
+[lgd_cluster_bsas] INFO: New cluster 5
+[lgd_cluster_bsas] INFO: Glowworm 47 with pdb lightdock_47.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 47 is 5.019
+[lgd_cluster_bsas] INFO: RMSD between 148 and 47 is 6.044
+[lgd_cluster_bsas] INFO: RMSD between 69 and 47 is 4.764
+[lgd_cluster_bsas] INFO: RMSD between 94 and 47 is 4.296
+[lgd_cluster_bsas] INFO: RMSD between 152 and 47 is 3.021
+[lgd_cluster_bsas] INFO: Glowworm 47 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 176 with pdb lightdock_176.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 176 is 3.845
+[lgd_cluster_bsas] INFO: Glowworm 176 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 78 with pdb lightdock_78.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 78 is 4.501
+[lgd_cluster_bsas] INFO: RMSD between 148 and 78 is 4.776
+[lgd_cluster_bsas] INFO: RMSD between 69 and 78 is 4.869
+[lgd_cluster_bsas] INFO: RMSD between 94 and 78 is 3.510
+[lgd_cluster_bsas] INFO: Glowworm 78 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 111 with pdb lightdock_111.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 111 is 3.940
+[lgd_cluster_bsas] INFO: Glowworm 111 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 177 with pdb lightdock_177.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 177 is 4.387
+[lgd_cluster_bsas] INFO: RMSD between 148 and 177 is 5.005
+[lgd_cluster_bsas] INFO: RMSD between 69 and 177 is 4.557
+[lgd_cluster_bsas] INFO: RMSD between 94 and 177 is 3.528
+[lgd_cluster_bsas] INFO: Glowworm 177 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 194 with pdb lightdock_194.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 194 is 5.346
+[lgd_cluster_bsas] INFO: RMSD between 148 and 194 is 4.499
+[lgd_cluster_bsas] INFO: RMSD between 69 and 194 is 4.141
+[lgd_cluster_bsas] INFO: RMSD between 94 and 194 is 4.771
+[lgd_cluster_bsas] INFO: RMSD between 152 and 194 is 0.761
+[lgd_cluster_bsas] INFO: Glowworm 194 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 64 with pdb lightdock_64.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 64 is 4.471
+[lgd_cluster_bsas] INFO: RMSD between 148 and 64 is 5.208
+[lgd_cluster_bsas] INFO: RMSD between 69 and 64 is 4.790
+[lgd_cluster_bsas] INFO: RMSD between 94 and 64 is 3.353
+[lgd_cluster_bsas] INFO: Glowworm 64 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 195 with pdb lightdock_195.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 195 is 4.816
+[lgd_cluster_bsas] INFO: RMSD between 148 and 195 is 4.758
+[lgd_cluster_bsas] INFO: RMSD between 69 and 195 is 5.310
+[lgd_cluster_bsas] INFO: RMSD between 94 and 195 is 3.957
+[lgd_cluster_bsas] INFO: Glowworm 195 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 140 with pdb lightdock_140.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 140 is 5.794
+[lgd_cluster_bsas] INFO: RMSD between 148 and 140 is 4.510
+[lgd_cluster_bsas] INFO: RMSD between 69 and 140 is 2.349
+[lgd_cluster_bsas] INFO: Glowworm 140 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 84 with pdb lightdock_84.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 84 is 4.831
+[lgd_cluster_bsas] INFO: RMSD between 148 and 84 is 3.022
+[lgd_cluster_bsas] INFO: Glowworm 84 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 139 with pdb lightdock_139.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 139 is 4.864
+[lgd_cluster_bsas] INFO: RMSD between 148 and 139 is 5.293
+[lgd_cluster_bsas] INFO: RMSD between 69 and 139 is 4.464
+[lgd_cluster_bsas] INFO: RMSD between 94 and 139 is 3.395
+[lgd_cluster_bsas] INFO: Glowworm 139 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 116 with pdb lightdock_116.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 116 is 4.534
+[lgd_cluster_bsas] INFO: RMSD between 148 and 116 is 5.040
+[lgd_cluster_bsas] INFO: RMSD between 69 and 116 is 4.607
+[lgd_cluster_bsas] INFO: RMSD between 94 and 116 is 3.288
+[lgd_cluster_bsas] INFO: Glowworm 116 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 73 with pdb lightdock_73.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 73 is 3.240
+[lgd_cluster_bsas] INFO: Glowworm 73 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 42 with pdb lightdock_42.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 42 is 3.680
+[lgd_cluster_bsas] INFO: Glowworm 42 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 186 with pdb lightdock_186.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 186 is 4.890
+[lgd_cluster_bsas] INFO: RMSD between 148 and 186 is 5.651
+[lgd_cluster_bsas] INFO: RMSD between 69 and 186 is 4.459
+[lgd_cluster_bsas] INFO: RMSD between 94 and 186 is 3.745
+[lgd_cluster_bsas] INFO: Glowworm 186 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 174 with pdb lightdock_174.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 174 is 4.924
+[lgd_cluster_bsas] INFO: RMSD between 148 and 174 is 4.279
+[lgd_cluster_bsas] INFO: RMSD between 69 and 174 is 4.768
+[lgd_cluster_bsas] INFO: RMSD between 94 and 174 is 4.091
+[lgd_cluster_bsas] INFO: RMSD between 152 and 174 is 2.459
+[lgd_cluster_bsas] INFO: Glowworm 174 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 161 with pdb lightdock_161.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 161 is 3.713
+[lgd_cluster_bsas] INFO: Glowworm 161 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 66 with pdb lightdock_66.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 66 is 4.601
+[lgd_cluster_bsas] INFO: RMSD between 148 and 66 is 4.784
+[lgd_cluster_bsas] INFO: RMSD between 69 and 66 is 4.956
+[lgd_cluster_bsas] INFO: RMSD between 94 and 66 is 3.492
+[lgd_cluster_bsas] INFO: Glowworm 66 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 165 with pdb lightdock_165.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 165 is 4.935
+[lgd_cluster_bsas] INFO: RMSD between 148 and 165 is 5.026
+[lgd_cluster_bsas] INFO: RMSD between 69 and 165 is 5.228
+[lgd_cluster_bsas] INFO: RMSD between 94 and 165 is 4.209
+[lgd_cluster_bsas] INFO: RMSD between 152 and 165 is 2.511
+[lgd_cluster_bsas] INFO: Glowworm 165 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 182 with pdb lightdock_182.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 182 is 4.045
+[lgd_cluster_bsas] INFO: RMSD between 148 and 182 is 5.441
+[lgd_cluster_bsas] INFO: RMSD between 69 and 182 is 5.540
+[lgd_cluster_bsas] INFO: RMSD between 94 and 182 is 3.434
+[lgd_cluster_bsas] INFO: Glowworm 182 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 172 with pdb lightdock_172.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 172 is 5.371
+[lgd_cluster_bsas] INFO: RMSD between 148 and 172 is 4.557
+[lgd_cluster_bsas] INFO: RMSD between 69 and 172 is 3.238
+[lgd_cluster_bsas] INFO: Glowworm 172 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 155 with pdb lightdock_155.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 155 is 5.191
+[lgd_cluster_bsas] INFO: RMSD between 148 and 155 is 4.478
+[lgd_cluster_bsas] INFO: RMSD between 69 and 155 is 4.129
+[lgd_cluster_bsas] INFO: RMSD between 94 and 155 is 4.761
+[lgd_cluster_bsas] INFO: RMSD between 152 and 155 is 0.767
+[lgd_cluster_bsas] INFO: Glowworm 155 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 34 with pdb lightdock_34.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 34 is 5.207
+[lgd_cluster_bsas] INFO: RMSD between 148 and 34 is 4.443
+[lgd_cluster_bsas] INFO: RMSD between 69 and 34 is 4.037
+[lgd_cluster_bsas] INFO: RMSD between 94 and 34 is 4.725
+[lgd_cluster_bsas] INFO: RMSD between 152 and 34 is 1.065
+[lgd_cluster_bsas] INFO: Glowworm 34 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 128 with pdb lightdock_128.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 128 is 5.362
+[lgd_cluster_bsas] INFO: RMSD between 148 and 128 is 4.618
+[lgd_cluster_bsas] INFO: RMSD between 69 and 128 is 4.581
+[lgd_cluster_bsas] INFO: RMSD between 94 and 128 is 4.489
+[lgd_cluster_bsas] INFO: RMSD between 152 and 128 is 1.716
+[lgd_cluster_bsas] INFO: Glowworm 128 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 59 with pdb lightdock_59.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 59 is 5.492
+[lgd_cluster_bsas] INFO: RMSD between 148 and 59 is 4.836
+[lgd_cluster_bsas] INFO: RMSD between 69 and 59 is 4.259
+[lgd_cluster_bsas] INFO: RMSD between 94 and 59 is 4.868
+[lgd_cluster_bsas] INFO: RMSD between 152 and 59 is 1.740
+[lgd_cluster_bsas] INFO: Glowworm 59 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 143 with pdb lightdock_143.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 143 is 4.263
+[lgd_cluster_bsas] INFO: RMSD between 148 and 143 is 5.280
+[lgd_cluster_bsas] INFO: RMSD between 69 and 143 is 5.051
+[lgd_cluster_bsas] INFO: RMSD between 94 and 143 is 4.029
+[lgd_cluster_bsas] INFO: RMSD between 152 and 143 is 3.397
+[lgd_cluster_bsas] INFO: Glowworm 143 goes into cluster 4
+[lgd_cluster_bsas] INFO: Glowworm 53 with pdb lightdock_53.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 53 is 3.684
+[lgd_cluster_bsas] INFO: Glowworm 53 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 37 with pdb lightdock_37.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 37 is 5.626
+[lgd_cluster_bsas] INFO: RMSD between 148 and 37 is 4.591
+[lgd_cluster_bsas] INFO: RMSD between 69 and 37 is 1.052
+[lgd_cluster_bsas] INFO: Glowworm 37 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 39 with pdb lightdock_39.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 39 is 1.365
+[lgd_cluster_bsas] INFO: Glowworm 39 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 17 with pdb lightdock_17.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 17 is 3.970
+[lgd_cluster_bsas] INFO: Glowworm 17 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 10 with pdb lightdock_10.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 10 is 3.516
+[lgd_cluster_bsas] INFO: Glowworm 10 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 16 with pdb lightdock_16.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 16 is 4.603
+[lgd_cluster_bsas] INFO: RMSD between 148 and 16 is 4.523
+[lgd_cluster_bsas] INFO: RMSD between 69 and 16 is 3.885
+[lgd_cluster_bsas] INFO: Glowworm 16 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 97 with pdb lightdock_97.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 97 is 2.741
+[lgd_cluster_bsas] INFO: Glowworm 97 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 122 with pdb lightdock_122.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 122 is 2.934
+[lgd_cluster_bsas] INFO: Glowworm 122 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 18 with pdb lightdock_18.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 18 is 4.014
+[lgd_cluster_bsas] INFO: RMSD between 148 and 18 is 4.536
+[lgd_cluster_bsas] INFO: RMSD between 69 and 18 is 4.782
+[lgd_cluster_bsas] INFO: RMSD between 94 and 18 is 1.124
+[lgd_cluster_bsas] INFO: Glowworm 18 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 45 with pdb lightdock_45.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 45 is 3.782
+[lgd_cluster_bsas] INFO: Glowworm 45 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 48 with pdb lightdock_48.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 48 is 3.543
+[lgd_cluster_bsas] INFO: Glowworm 48 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 149 with pdb lightdock_149.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 149 is 4.789
+[lgd_cluster_bsas] INFO: RMSD between 148 and 149 is 5.133
+[lgd_cluster_bsas] INFO: RMSD between 69 and 149 is 3.011
+[lgd_cluster_bsas] INFO: Glowworm 149 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 58 with pdb lightdock_58.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 58 is 3.740
+[lgd_cluster_bsas] INFO: Glowworm 58 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 185 with pdb lightdock_185.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 185 is 5.665
+[lgd_cluster_bsas] INFO: RMSD between 148 and 185 is 4.025
+[lgd_cluster_bsas] INFO: RMSD between 69 and 185 is 2.371
+[lgd_cluster_bsas] INFO: Glowworm 185 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 198 with pdb lightdock_198.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 198 is 3.718
+[lgd_cluster_bsas] INFO: Glowworm 198 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 68 with pdb lightdock_68.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 68 is 3.139
+[lgd_cluster_bsas] INFO: Glowworm 68 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 113 with pdb lightdock_113.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 113 is 4.049
+[lgd_cluster_bsas] INFO: RMSD between 148 and 113 is 3.908
+[lgd_cluster_bsas] INFO: Glowworm 113 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 74 with pdb lightdock_74.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 74 is 2.990
+[lgd_cluster_bsas] INFO: Glowworm 74 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 5 with pdb lightdock_5.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 5 is 4.278
+[lgd_cluster_bsas] INFO: RMSD between 148 and 5 is 4.015
+[lgd_cluster_bsas] INFO: RMSD between 69 and 5 is 4.356
+[lgd_cluster_bsas] INFO: RMSD between 94 and 5 is 3.324
+[lgd_cluster_bsas] INFO: Glowworm 5 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 6 with pdb lightdock_6.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 6 is 3.482
+[lgd_cluster_bsas] INFO: Glowworm 6 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 170 with pdb lightdock_170.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 170 is 4.877
+[lgd_cluster_bsas] INFO: RMSD between 148 and 170 is 3.981
+[lgd_cluster_bsas] INFO: Glowworm 170 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 22 with pdb lightdock_22.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 22 is 3.046
+[lgd_cluster_bsas] INFO: Glowworm 22 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 15 with pdb lightdock_15.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 15 is 3.630
+[lgd_cluster_bsas] INFO: Glowworm 15 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 158 with pdb lightdock_158.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 158 is 4.715
+[lgd_cluster_bsas] INFO: RMSD between 148 and 158 is 5.372
+[lgd_cluster_bsas] INFO: RMSD between 69 and 158 is 4.707
+[lgd_cluster_bsas] INFO: RMSD between 94 and 158 is 3.660
+[lgd_cluster_bsas] INFO: Glowworm 158 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 138 with pdb lightdock_138.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 138 is 3.803
+[lgd_cluster_bsas] INFO: Glowworm 138 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 77 with pdb lightdock_77.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 77 is 3.306
+[lgd_cluster_bsas] INFO: Glowworm 77 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 154 with pdb lightdock_154.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 154 is 3.606
+[lgd_cluster_bsas] INFO: Glowworm 154 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 159 with pdb lightdock_159.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 159 is 4.317
+[lgd_cluster_bsas] INFO: RMSD between 148 and 159 is 3.336
+[lgd_cluster_bsas] INFO: Glowworm 159 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 8 with pdb lightdock_8.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 8 is 4.868
+[lgd_cluster_bsas] INFO: RMSD between 148 and 8 is 5.577
+[lgd_cluster_bsas] INFO: RMSD between 69 and 8 is 3.395
+[lgd_cluster_bsas] INFO: Glowworm 8 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 166 with pdb lightdock_166.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 166 is 3.107
+[lgd_cluster_bsas] INFO: Glowworm 166 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 184 with pdb lightdock_184.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 184 is 3.555
+[lgd_cluster_bsas] INFO: Glowworm 184 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 131 with pdb lightdock_131.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 131 is 3.469
+[lgd_cluster_bsas] INFO: Glowworm 131 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 115 with pdb lightdock_115.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 115 is 3.515
+[lgd_cluster_bsas] INFO: Glowworm 115 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 1 with pdb lightdock_1.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 1 is 4.328
+[lgd_cluster_bsas] INFO: RMSD between 148 and 1 is 3.294
+[lgd_cluster_bsas] INFO: Glowworm 1 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 2 with pdb lightdock_2.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 2 is 5.189
+[lgd_cluster_bsas] INFO: RMSD between 148 and 2 is 5.661
+[lgd_cluster_bsas] INFO: RMSD between 69 and 2 is 3.069
+[lgd_cluster_bsas] INFO: Glowworm 2 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 92 with pdb lightdock_92.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 92 is 5.187
+[lgd_cluster_bsas] INFO: RMSD between 148 and 92 is 5.628
+[lgd_cluster_bsas] INFO: RMSD between 69 and 92 is 3.070
+[lgd_cluster_bsas] INFO: Glowworm 92 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 24 with pdb lightdock_24.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 24 is 4.523
+[lgd_cluster_bsas] INFO: RMSD between 148 and 24 is 4.658
+[lgd_cluster_bsas] INFO: RMSD between 69 and 24 is 4.841
+[lgd_cluster_bsas] INFO: RMSD between 94 and 24 is 3.031
+[lgd_cluster_bsas] INFO: Glowworm 24 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 181 with pdb lightdock_181.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 181 is 5.785
+[lgd_cluster_bsas] INFO: RMSD between 148 and 181 is 5.597
+[lgd_cluster_bsas] INFO: RMSD between 69 and 181 is 3.817
+[lgd_cluster_bsas] INFO: Glowworm 181 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 61 with pdb lightdock_61.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 61 is 4.549
+[lgd_cluster_bsas] INFO: RMSD between 148 and 61 is 4.674
+[lgd_cluster_bsas] INFO: RMSD between 69 and 61 is 4.848
+[lgd_cluster_bsas] INFO: RMSD between 94 and 61 is 3.083
+[lgd_cluster_bsas] INFO: Glowworm 61 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 156 with pdb lightdock_156.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 156 is 3.754
+[lgd_cluster_bsas] INFO: Glowworm 156 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 160 with pdb lightdock_160.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 160 is 3.592
+[lgd_cluster_bsas] INFO: Glowworm 160 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 30 with pdb lightdock_30.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 30 is 3.126
+[lgd_cluster_bsas] INFO: Glowworm 30 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 175 with pdb lightdock_175.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 175 is 3.472
+[lgd_cluster_bsas] INFO: Glowworm 175 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 40 with pdb lightdock_40.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 40 is 4.906
+[lgd_cluster_bsas] INFO: RMSD between 148 and 40 is 4.898
+[lgd_cluster_bsas] INFO: RMSD between 69 and 40 is 3.307
+[lgd_cluster_bsas] INFO: Glowworm 40 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 119 with pdb lightdock_119.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 119 is 3.747
+[lgd_cluster_bsas] INFO: Glowworm 119 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 33 with pdb lightdock_33.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 33 is 3.692
+[lgd_cluster_bsas] INFO: Glowworm 33 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 100 with pdb lightdock_100.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 100 is 2.955
+[lgd_cluster_bsas] INFO: Glowworm 100 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 126 with pdb lightdock_126.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 126 is 3.280
+[lgd_cluster_bsas] INFO: Glowworm 126 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 32 with pdb lightdock_32.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 32 is 4.994
+[lgd_cluster_bsas] INFO: RMSD between 148 and 32 is 4.654
+[lgd_cluster_bsas] INFO: RMSD between 69 and 32 is 3.487
+[lgd_cluster_bsas] INFO: Glowworm 32 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 9 with pdb lightdock_9.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 9 is 3.924
+[lgd_cluster_bsas] INFO: Glowworm 9 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 55 with pdb lightdock_55.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 55 is 3.647
+[lgd_cluster_bsas] INFO: Glowworm 55 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 141 with pdb lightdock_141.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 141 is 4.420
+[lgd_cluster_bsas] INFO: RMSD between 148 and 141 is 3.421
+[lgd_cluster_bsas] INFO: Glowworm 141 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 130 with pdb lightdock_130.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 130 is 3.828
+[lgd_cluster_bsas] INFO: Glowworm 130 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 70 with pdb lightdock_70.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 70 is 4.777
+[lgd_cluster_bsas] INFO: RMSD between 148 and 70 is 5.324
+[lgd_cluster_bsas] INFO: RMSD between 69 and 70 is 4.692
+[lgd_cluster_bsas] INFO: RMSD between 94 and 70 is 4.195
+[lgd_cluster_bsas] INFO: RMSD between 152 and 70 is 4.113
+[lgd_cluster_bsas] INFO: RMSD between 180 and 70 is 5.683
+[lgd_cluster_bsas] INFO: New cluster 6
+[lgd_cluster_bsas] INFO: Glowworm 80 with pdb lightdock_80.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 80 is 3.998
+[lgd_cluster_bsas] INFO: Glowworm 80 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 81 with pdb lightdock_81.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 81 is 4.922
+[lgd_cluster_bsas] INFO: RMSD between 148 and 81 is 4.481
+[lgd_cluster_bsas] INFO: RMSD between 69 and 81 is 4.182
+[lgd_cluster_bsas] INFO: RMSD between 94 and 81 is 3.511
+[lgd_cluster_bsas] INFO: Glowworm 81 goes into cluster 3
+[lgd_cluster_bsas] INFO: Glowworm 129 with pdb lightdock_129.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 129 is 3.536
+[lgd_cluster_bsas] INFO: Glowworm 129 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 108 with pdb lightdock_108.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 108 is 4.463
+[lgd_cluster_bsas] INFO: RMSD between 148 and 108 is 5.264
+[lgd_cluster_bsas] INFO: RMSD between 69 and 108 is 3.256
+[lgd_cluster_bsas] INFO: Glowworm 108 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 27 with pdb lightdock_27.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 27 is 3.721
+[lgd_cluster_bsas] INFO: Glowworm 27 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 50 with pdb lightdock_50.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 50 is 4.246
+[lgd_cluster_bsas] INFO: RMSD between 148 and 50 is 4.698
+[lgd_cluster_bsas] INFO: RMSD between 69 and 50 is 3.609
+[lgd_cluster_bsas] INFO: Glowworm 50 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 46 with pdb lightdock_46.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 46 is 3.915
+[lgd_cluster_bsas] INFO: Glowworm 46 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 82 with pdb lightdock_82.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 82 is 4.338
+[lgd_cluster_bsas] INFO: RMSD between 148 and 82 is 4.850
+[lgd_cluster_bsas] INFO: RMSD between 69 and 82 is 3.451
+[lgd_cluster_bsas] INFO: Glowworm 82 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 189 with pdb lightdock_189.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 189 is 4.698
+[lgd_cluster_bsas] INFO: RMSD between 148 and 189 is 3.395
+[lgd_cluster_bsas] INFO: Glowworm 189 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 65 with pdb lightdock_65.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 65 is 4.449
+[lgd_cluster_bsas] INFO: RMSD between 148 and 65 is 3.677
+[lgd_cluster_bsas] INFO: Glowworm 65 goes into cluster 1
+[lgd_cluster_bsas] INFO: Glowworm 3 with pdb lightdock_3.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 3 is 3.884
+[lgd_cluster_bsas] INFO: Glowworm 3 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 192 with pdb lightdock_192.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 192 is 3.407
+[lgd_cluster_bsas] INFO: Glowworm 192 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 147 with pdb lightdock_147.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 147 is 4.587
+[lgd_cluster_bsas] INFO: RMSD between 148 and 147 is 5.321
+[lgd_cluster_bsas] INFO: RMSD between 69 and 147 is 3.506
+[lgd_cluster_bsas] INFO: Glowworm 147 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 76 with pdb lightdock_76.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 76 is 2.779
+[lgd_cluster_bsas] INFO: Glowworm 76 goes into cluster 0
+[lgd_cluster_bsas] INFO: Glowworm 153 with pdb lightdock_153.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 153 is 4.560
+[lgd_cluster_bsas] INFO: RMSD between 148 and 153 is 5.285
+[lgd_cluster_bsas] INFO: RMSD between 69 and 153 is 3.501
+[lgd_cluster_bsas] INFO: Glowworm 153 goes into cluster 2
+[lgd_cluster_bsas] INFO: Glowworm 103 with pdb lightdock_103.pdb
+[lgd_cluster_bsas] INFO: RMSD between 196 and 103 is 4.369
+[lgd_cluster_bsas] INFO: RMSD between 148 and 103 is 4.343
+[lgd_cluster_bsas] INFO: RMSD between 69 and 103 is 3.299
+[lgd_cluster_bsas] INFO: Glowworm 103 goes into cluster 2
+[lgd_cluster_bsas] INFO: Cluster result written to /home/farah/Pipeline/swarm_0/cluster.repr file

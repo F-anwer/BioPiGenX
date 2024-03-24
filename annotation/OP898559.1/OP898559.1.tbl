@@ -1,0 +1,9 @@
+>Feature gnl|YourCenter|OP898559.1_1
+43	10176	gene
+			locus_tag	OP898559.1_00001
+43	10176	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14337
+			locus_tag	OP898559.1_00001
+			product	Genome polyprotein
+			protein_id	gnl|YourCenter|OP898559.1_00001

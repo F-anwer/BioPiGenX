@@ -1,0 +1,107 @@
+[14:16:14] This is prokka 1.14.6
+[14:16:14] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:16:14] Homepage is https://github.com/tseemann/prokka
+[14:16:14] Local time is Tue Mar 19 14:16:14 2024
+[14:16:14] You are farah
+[14:16:14] Operating system is linux
+[14:16:14] You have BioPerl 1.7.8
+[14:16:14] System has 2 cores.
+[14:16:14] Will use maximum of 2 cores.
+[14:16:14] Annotating as >>> Viruses <<<
+[14:16:14] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[14:16:14] Creating new output folder: annotation/KF041237.1
+[14:16:14] Running: mkdir -p annotation\/KF041237\.1
+[14:16:14] Using filename prefix: KF041237.1.XXX
+[14:16:14] Setting HMMER_NCPU=1
+[14:16:14] Writing log to: annotation/KF041237.1/KF041237.1.log
+[14:16:14] Command: /home/farah/miniconda3/envs/pipeline/bin/prokka --cpus 2 --kingdom Virus --locustag KF041237.1 --addgenes --outdir annotation/KF041237.1 --prefix KF041237.1 --centre YourCenter --compliant /home/farah/Pipeline/multiple_sequence_alignment/fasta/KF041237.1.fasta
+[14:16:14] Appending to PATH: /home/farah/miniconda3/envs/pipeline/bin
+[14:16:14] Looking for 'aragorn' - found /home/farah/miniconda3/envs/pipeline/bin/aragorn
+[14:16:14] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[14:16:14] Looking for 'barrnap' - found /home/farah/miniconda3/envs/pipeline/bin/barrnap
+[14:16:14] Determined barrnap version is 000009 from 'barrnap 0.9'
+[14:16:14] Looking for 'blastp' - found /home/farah/miniconda3/envs/pipeline/bin/blastp
+[14:16:14] Determined blastp version is 002014 from 'blastp: 2.14.1+'
+[14:16:14] Looking for 'cmpress' - found /home/farah/miniconda3/envs/pipeline/bin/cmpress
+[14:16:14] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[14:16:14] Looking for 'cmscan' - found /home/farah/miniconda3/envs/pipeline/bin/cmscan
+[14:16:14] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[14:16:14] Looking for 'egrep' - found /usr/bin/egrep
+[14:16:14] Looking for 'find' - found /usr/bin/find
+[14:16:14] Looking for 'grep' - found /usr/bin/grep
+[14:16:14] Looking for 'hmmpress' - found /home/farah/miniconda3/envs/pipeline/bin/hmmpress
+[14:16:14] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[14:16:14] Looking for 'hmmscan' - found /home/farah/miniconda3/envs/pipeline/bin/hmmscan
+[14:16:14] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[14:16:14] Looking for 'java' - found /home/farah/miniconda3/envs/pipeline/bin/java
+[14:16:14] Looking for 'makeblastdb' - found /home/farah/miniconda3/envs/pipeline/bin/makeblastdb
+[14:16:14] Determined makeblastdb version is 002014 from 'makeblastdb: 2.14.1+'
+[14:16:14] Looking for 'minced' - found /home/farah/miniconda3/envs/pipeline/bin/minced
+[14:16:14] Determined minced version is 004002 from 'minced 0.4.2'
+[14:16:14] Looking for 'parallel' - found /home/farah/miniconda3/envs/pipeline/bin/parallel
+[14:16:15] Determined parallel version is 20231122 from 'GNU parallel 20231122'
+[14:16:15] Looking for 'prodigal' - found /home/farah/miniconda3/envs/pipeline/bin/prodigal
+[14:16:15] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[14:16:15] Looking for 'prokka-genbank_to_fasta_db' - found /home/farah/miniconda3/envs/pipeline/bin/prokka-genbank_to_fasta_db
+[14:16:15] Looking for 'sed' - found /usr/bin/sed
+[14:16:15] Looking for 'tbl2asn' - found /home/farah/miniconda3/envs/pipeline/bin/tbl2asn
+[14:16:15] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[14:16:15] Using genetic code table 1.
+[14:16:15] Loading and checking input file: /home/farah/Pipeline/multiple_sequence_alignment/fasta/KF041237.1.fasta
+[14:16:15] Wrote 1 contigs totalling 10723 bp.
+[14:16:15] Predicting tRNAs and tmRNAs
+[14:16:15] Running: aragorn -l -gc1  -w annotation\/KF041237\.1\/KF041237\.1\.fna
+[14:16:15] Found 0 tRNAs
+[14:16:15] Disabling rRNA search: --kingdom=Viruses or --norrna=0
+[14:16:15] Skipping ncRNA search, enable with --rfam if desired.
+[14:16:15] Total of 0 tRNA + rRNA features
+[14:16:15] Searching for CRISPR repeats
+[14:16:15] Found 0 CRISPRs
+[14:16:15] Predicting coding sequences
+[14:16:15] Contigs total 10723 bp, so using meta mode
+[14:16:15] Running: prodigal -i annotation\/KF041237\.1\/KF041237\.1\.fna -c -m -g 1 -p meta -f sco -q
+[14:16:15] Found 1 CDS
+[14:16:15] Connecting features back to sequences
+[14:16:15] Not using genus-specific database. Try --usegenus to enable it.
+[14:16:15] Annotating CDS, please be patient.
+[14:16:15] Will use 2 CPUs for similarity searching.
+[14:16:15] There are still 1 unannotated CDS left (started with 1)
+[14:16:15] Will use blast to search against /home/farah/miniconda3/envs/pipeline/db/kingdom/Viruses/sprot with 2 CPUs
+[14:16:15] Running: cat annotation\/KF041237\.1\/KF041237\.1\.sprot\.tmp\.10376\.faa | parallel --gnu --plain -j 2 --block 845 --recstart '>' --pipe blastp -query - -db /home/farah/miniconda3/envs/pipeline/db/kingdom/Viruses/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > annotation\/KF041237\.1\/KF041237\.1\.sprot\.tmp\.10376\.blast 2> /dev/null
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.sprot.tmp.10376.faa
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.sprot.tmp.10376.blast
+[14:16:16] Found 0 unique /gene codes.
+[14:16:16] Fixed 0 colliding /gene names.
+[14:16:16] Adding /locus_tag identifiers
+[14:16:16] Assigned 1 locus_tags to CDS and RNA features.
+[14:16:16] Writing outputs to annotation/KF041237.1/
+[14:16:16] Generating annotation statistics file
+[14:16:16] Generating Genbank and Sequin files
+[14:16:16] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z annotation\/KF041237\.1\/KF041237\.1\.err -i annotation\/KF041237\.1\/KF041237\.1\.fsa 2> /dev/null
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/errorsummary.val
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.dr
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.fixedproducts
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.ecn
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.val
+[14:16:16] Repairing broken .GBK output that tbl2asn produces...
+[14:16:16] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < annotation\/KF041237\.1\/KF041237\.1\.gbf > annotation\/KF041237\.1\/KF041237\.1\.gbk
+[14:16:16] Deleting unwanted file: annotation/KF041237.1/KF041237.1.gbf
+[14:16:16] Output files:
+[14:16:16] annotation/KF041237.1/KF041237.1.tbl
+[14:16:16] annotation/KF041237.1/KF041237.1.fsa
+[14:16:16] annotation/KF041237.1/KF041237.1.faa
+[14:16:16] annotation/KF041237.1/KF041237.1.sqn
+[14:16:16] annotation/KF041237.1/KF041237.1.err
+[14:16:16] annotation/KF041237.1/KF041237.1.ffn
+[14:16:16] annotation/KF041237.1/KF041237.1.txt
+[14:16:16] annotation/KF041237.1/KF041237.1.tsv
+[14:16:16] annotation/KF041237.1/KF041237.1.gff
+[14:16:16] annotation/KF041237.1/KF041237.1.gbk
+[14:16:16] annotation/KF041237.1/KF041237.1.log
+[14:16:16] annotation/KF041237.1/KF041237.1.fna
+[14:16:16] Annotation finished successfully.
+[14:16:16] Walltime used: 0.03 minutes
+[14:16:16] If you use this result please cite the Prokka paper:
+[14:16:16] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[14:16:16] Type 'prokka --citation' for more details.
+[14:16:16] Thank you, come again.
